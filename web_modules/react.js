@@ -7,4 +7,3 @@ var useEffect = react.useEffect;
 var useRef = react.useRef;
 var useState = react.useState;
 export { useEffect, useRef, useState };
-//# sourceMappingURL=react.js.map
