@@ -9,7 +9,7 @@ function App({}: AppProps) {
   return (
     <div className="App">
       <header className="App-header">
-        <p className="spinner">Happy 2020</p>
+        <p className="spinner">Happy 2021</p>
       </header>
       <Firework
         style={{ position: 'absolute', top: 0, left: 0 }}
