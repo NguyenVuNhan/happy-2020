@@ -8,7 +8,7 @@ function App({}) {
     className: "App-header"
   }, /* @__PURE__ */ React.createElement("p", {
     className: "spinner"
-  }, "Happy 2020")), /* @__PURE__ */ React.createElement(Firework, {
+  }, "Happy 2022")), /* @__PURE__ */ React.createElement(Firework, {
     style: {position: "absolute", top: 0, left: 0},
     width: window.innerWidth,
     height: window.innerHeight,
